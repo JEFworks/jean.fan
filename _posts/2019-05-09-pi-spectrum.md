@@ -7,7 +7,7 @@ date: "May 09, 2019"
 
 As I'm nearing the end of my academic training, I've been thinking a lot about the 'types' of PIs I've worked with, what 'types' of PIs I work well with, and what 'type' of PI I may want to be one day. 
 
-So I made the following fun PI spectrum along with the benefits of each 'type' of PI, along with their pitfalls and whether working with such a 'type' of PI may be the right fit for a particular student. These 'types' of PIs are based on my experiences. I've worked with all of these 'types' in varying capacity. It's worth noting that different people succeed in different settings. And you may need one 'type' of PI in one stage of your career and a different 'type' in another. No one 'type' is better than another. Be honest with yourself and find what works for you. 
+So I made the following fun PI spectrum along with what I've experienced as the benefits of each 'type' of PI, their pitfalls, and whether working with such a 'type' of PI may be the right fit for a particular student. I've worked with all of these 'types' in varying capacity. It's worth noting that different people succeed in different settings. And you may need one 'type' of PI in one stage of your career and a different 'type' in another. No one 'type' is better than another. Be honest with yourself and find what works for you. 
 
 <img src="/img/pi_spectrum.png" width="100%">
 
