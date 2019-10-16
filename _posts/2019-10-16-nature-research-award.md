@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Nature Research Award"
-excerpt: "I recently had the honor of being named the Nature Research Award winner for 2019. I just wanted to provide here a full transcript of my award acceptance speech as I had intended to deliver it. A set of videos, pod-casts, exerpts, and interviews will likely be available through Nature Research and The Estée Lauder Companies within the near future."
+excerpt: "I recently had the honor of being named the Nature Research Award winner for 2019. I just wanted to provide here a full transcript of my award acceptance speech as I had intended to deliver it. A set of videos, podcasts, news articles, and interviews will likely be available through Nature Research and The Estée Lauder Companies within the near future."
 date: "October, 16, 2019"
 ---
 
-I recently had the honor of being named the Nature Research Award winner for 2019. I just wanted to provide here a full transcript of my award acceptance speech as I had intended to deliver it. A set of videos, pod-casts, exerpts, and interviews will likely be available through Nature Research and The Estée Lauder Companies within the near future.
+I recently had the honor of being named the Nature Research Award winner for 2019. I just wanted to provide here a full transcript of my award acceptance speech as I had intended to deliver it. A set of videos, podcasts, news articles, and interviews will likely be available through Nature Research and The Estée Lauder Companies within the near future.
 
 <img src="/img/nature_research_award.jpeg" width="100%">
 
