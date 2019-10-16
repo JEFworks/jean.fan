@@ -4,7 +4,7 @@ description:       reflections on science and academia
 author:            Jean Fan
 baseurl:           "/"
 url:               "http://jean.fan"
-logo:		   "img/logo.png"
+logo:		   "/img/logo.png"
 
 # Social Profiles
 twitter_username:  JEFworks
