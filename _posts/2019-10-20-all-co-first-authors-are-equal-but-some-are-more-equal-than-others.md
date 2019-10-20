@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "All co-first authors are equal, but some are more equal than others"
-excerpt: "I recently had the honor of being named the Nature Research Award winner for 2019. I just wanted to provide here a full transcript of my award acceptance speech as I had intended to deliver it. A set of videos, podcasts, news articles, and interviews will likely be available through Nature Research and The Estée Lauder Companies within the near future."
+excerpt: "Co-first is when two or more individuals are noted as providing the same or equal first-author-level contribution to a published work. Such co-first authorships are becoming more common, particularly in the biomedical fields, where projects are becoming more and more ambitious, requiring more and more diverse skill sets as well as intense multi-year collaborative efforts to come to fruition. Unfortunately, publishers have been rather slow in properly recognizing such co-first authorships with readily visible annotations, particularly online. Here, I highlight the problem with examples, explain why we should care, and propose a simple solution."
 date: "October, 20, 2019"
 ---
 
