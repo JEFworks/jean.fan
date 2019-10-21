@@ -49,3 +49,13 @@ During my previous training period, I have published 9 publications, 2 of which 
 If we insist as a scientific community to rely on such arbitrary metrics of productivity, we should at least make it easier to accurately use them. Here is even a mockup:
 
 <img src="/img/cofirst6.png" width="100%">
+
+# What we can do in the meantime
+
+While we can pressure decision makers and publishers towards making the proper modifications, there are also things we can do as academics to better ensure that co-first authorships are properly recognized.
+
+For one, students/mentees/trainees can clearly and explicitly state on their CVs, biosketches, grant/faculty/fellowship applications, etc how many first and equal-contribution co-first author papers they have produced. Likewise, advisors/mentors can clearly and explicitly state in letters of recommendation how many first and equal-contribution co-first author papers students have produced. Do not rely on reviewers to be able to count accurately. 
+
+Until equal-contribution co-first authors are recognized as truly being equal, such as with readily visible annotations on publication websites, <a href="https://en.wikipedia.org/wiki/Animal_Farm">all co-first authors will be equal but some will be more equal than others</a>.
+
+
