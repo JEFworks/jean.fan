@@ -56,6 +56,8 @@ While we can pressure decision makers and publishers towards making the proper m
 
 For one, students/mentees/trainees can clearly and explicitly state on their CVs, biosketches, grant/faculty/fellowship applications, etc how many first and equal-contribution co-first author papers they have produced. Likewise, advisors/mentors can clearly and explicitly state in letters of recommendation how many first and equal-contribution co-first author papers students have produced. Do not rely on reviewers to be able to count accurately. 
 
+<a href="https://jef.works/publications">Publications noted on lab websites</a> can also be modified to more clearly recognize equal contribution by co-first authors. 
+
 Until equal-contribution co-first authors are recognized as truly being equal, such as with readily visible annotations on publication websites, <a href="https://en.wikipedia.org/wiki/Animal_Farm">all co-first authors will be equal but some will be more equal than others</a>.
 
 
