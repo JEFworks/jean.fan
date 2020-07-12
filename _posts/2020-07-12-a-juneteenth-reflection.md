@@ -22,7 +22,7 @@ So, having recognize a mechanism by which our current systems perpetuate institu
 
 At minimum, we must first sacrifice our egos to not only be open to feedback from URM students but to also [seek out information without burdening URMs through our own self-education]( https://bcplinfo.overdrive.com/collection/1085670?). We must become knowledgeable about the possibility of our own implicit biases emerging, not necessarily to ensure that these biases will not operate, but to increase the likelihood of self-conscious efforts to use procedures that will minimize the possibility of implicit biases hindering fairness of the decision-making process.
 
-We must sacrifice our time to read through URM student applications, reach out to references, conduct phone interviews, and evaluate students based on more than just a series of numbers that are intended but so often fail to reduce down a complex being into passing glance’s worth of information.  
+We must sacrifice our time to reach out to URM student applicants, encourage them to apply, read their applications, reach out to references, conduct phone interviews, and evaluate our students based on more than just a series of numbers that are intended but so often fail to reduce down a complex being into passing glance’s worth of information.  
 
 We must sacrifice our momentary productivity to ensure that URM students are able to maintain rich and well-rounded lives with hobbies and friends who can support them through the inevitable ups and downs of pursuing novel scientific research.
 
