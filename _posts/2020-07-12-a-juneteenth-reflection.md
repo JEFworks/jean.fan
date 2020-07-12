@@ -22,13 +22,13 @@ So, having recognize a mechanism by which our current systems perpetuate institu
 
 At minimum, we must first make an effort to [seek out information without burdening URMs through our own self-education]( https://bcplinfo.overdrive.com/collection/1085670?). We must become knowledgeable about the possibility of our own implicit biases emerging, not necessarily to ensure that these biases will not operate, but to increase the likelihood of self-conscious efforts to use procedures that will minimize the possibility of implicit biases hindering fairness of the decision-making process.
 
-We must make the effort to reach out to URM student applicants, encourage them to apply, read their applications, reach out to references, conduct phone interviews, and evaluate our students based on more than just a series of numbers that are intended but so often fail to reduce down a complex being into passing glance’s worth of information.  
+We must make an effort to reach out to URM student applicants, encourage them to apply, read their applications, reach out to references, conduct phone interviews, and evaluate our students based on more than just a series of numbers that are intended but so often fail to reduce down a complex being into passing glance’s worth of information.  
 
-We must make the effort to ensure that URM students are able to maintain rich and well-rounded lives with hobbies and friends who can support them through the inevitable ups and downs of pursuing novel scientific research, even if it means sacrificing our momentary productivity.
+We must make an effort to ensure that URM students are able to maintain rich and well-rounded lives with hobbies and friends who can support them through the inevitable ups and downs of pursuing novel scientific research, even if it means sacrificing our momentary productivity.
 
-We must make the effort to mentor URM students who may have never been mentored before so that they can gain the mentorship and experiences of doing science, not as a byproduct of us advancing our own careers, but as fundamental goals with inherent intangible value onto themselves. 
+We must make an effort to mentor URM students so that they can gain the mentorship and experiences of doing science, not as a byproduct of us advancing our own careers, but as fundamental goals with inherent intangible value onto themselves. 
 
-And ultimately we must make the effort to create institutionalized structures and mechanisms that reward these efforts if we wish to see them persist and scale. 
+And ultimately we must make an effort to create institutionalized structures and mechanisms that reward these efforts if we wish to see them persist and scale. 
 
 Because if we don’t do it, who will?
 
