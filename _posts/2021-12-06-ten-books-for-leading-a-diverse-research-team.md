@@ -25,6 +25,6 @@ I have read a number of books this past year to help shape my perspective on bes
 ### Finding, revealing, and holding accountable your blind spots as a leader
 - [So You Want to Talk About Race Book by Ijeoma Oluo](https://www.goodreads.com/book/show/35099718-so-you-want-to-talk-about-race)
 - [Minor Feelings: A Reckoning on Race and the Asian Condition Cathy Park Hong](https://www.goodreads.com/en/book/show/52845775-minor-feelings)
-- [Nice Racism by Dr. Robin DiAngelo](https://www.goodreads.com/en/book/show/57205027-nice-racism)
+- [Nice Racism: How Progressive White People Perpetuate Racial Harm by Robin DiAngelo](https://www.goodreads.com/en/book/show/57205027-nice-racism)
 - [Biased: Uncovering the Hidden Prejudice That Shapes What We See, Think, and Do. by Jennifer L. Eberhardt](https://www.goodreads.com/en/book/show/40407320-biased)
-- [The Meritocracy Trap by Daniel Markovits](https://www.goodreads.com/en/book/show/43671669-the-meritocracy-trap)
+- [The Meritocracy Trap: How America's Foundational Myth Feeds Inequality, Dismantles the Middle Class, and Devours the Elite by Daniel Markovits](https://www.goodreads.com/en/book/show/43671669-the-meritocracy-trap)
