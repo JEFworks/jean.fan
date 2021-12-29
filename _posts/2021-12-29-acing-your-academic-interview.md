@@ -62,4 +62,4 @@ If you know who your interviewers will be ahead of time, try to read a few of th
 <img src="/img/rising_stars2.jpg" width="100%">
 <sub>(with Rising Star [Yvon Woappi](https://scholar.harvard.edu/ywoappi/bio))</sub>
 # Related posts: 
-[Hello from the other side: 5 reflections on the PhD interview process from a junior faculty perspective](2020/03/01/reflections-on-the-PhD-interview-process-from-a-faculty-perspective.html)
+[Hello from the other side: 5 reflections on the PhD interview process from a junior faculty perspective](https://jean.fan/2020/03/01/reflections-on-the-PhD-interview-process-from-a-faculty-perspective.html)
