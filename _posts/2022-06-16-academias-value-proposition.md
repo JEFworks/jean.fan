@@ -7,7 +7,7 @@ date: "June 16, 2022"
 
 Nearly two years ago, I started my journey as a tenure-track assistant professor. And within this past year, a number of my close friends, colleagues, collaborators, and former mentors have decided to leave academia to continue pursuing science outside of academia in industry. 
 
-Indeed, more and more financially lucrative industry opportunities are now available to aspiring young scientists, even those interested in more basic science research. Likewise, many industry positions also now offer high flexibility, opportunities for leadership within the company, and a high degree of intellectual autonomy. This has led to me really reflect on what are the truly unique value propositions academia? These are my thoughts from that reflection. 
+Indeed, more and more financially lucrative industry opportunities are now available to aspiring young scientists, even those interested in more basic science research. Likewise, many industry positions also now offer high flexibility, opportunities for leadership within the company, and a high degree of intellectual autonomy. This has led to me really reflect on what are the truly unique value propositions in academia? These are my thoughts from that reflection. 
 
 ---
 
