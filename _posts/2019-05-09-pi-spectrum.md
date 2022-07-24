@@ -3,17 +3,18 @@ layout: post
 title: "The PI Spectrum"
 excerpt: "As I'm nearing the end of my academic training, I've been thinking a lot about the 'types' of PIs I've worked with, what 'types' of PIs I work well with, and what 'type' of PI I may want to be one day. So I made the following fun PI spectrum along with the benefits of each 'type' of PI, along with their pitfalls and whether working with such a 'type' of PI may be the right fit for a particular student."
 date: "May 09, 2019"
+categories: [Humor]
 ---
 
 As I'm nearing the end of my academic training, I've been thinking a lot about the 'types' of PIs I've worked with, what 'types' of PIs I work well with, and what 'type' of PI I may want to be one day. 
 
 So I made the following fun PI spectrum along with what I've experienced as the benefits of each 'type' of PI, their pitfalls, and whether working with such a 'type' of PI may be the right fit for a particular student. I've worked with all of these 'types' in varying capacity. It's worth noting that different people succeed in different settings. And you may need one 'type' of PI in one stage of your career and a different 'type' in another. No one 'type' is better than another. Be honest with yourself and find what works for you. 
 
-<img src="/img/pi_spectrum.png" width="100%">
+<img src="/assets/img/blog/pi_spectrum.png" width="100%">
 
 ---
 
-# 1. The cheerleader
+### 1. The cheerleader
 
 The type: Always enthusiastic, cheerleaders will support you in whatever you wish to pursue. They do not know how to say no. You tell them an idea, and they always say, "Yes, go for it!"
 
@@ -25,7 +26,7 @@ Is this type of PI right for you? If you are the type of person to be very self 
 
 ---
 
-# 2. The robot
+### 2. The robot
 
 The type: Socially unaware and highly efficient, robots get straight to the point. There is very little chit chat or beating around the bush. If your scientific rationale is off, they will bluntly let you know. 
 
@@ -37,7 +38,7 @@ Is this type of PI right for you? If you are emotionally mature and capable of t
 
 ---
 
-# 3. The helicopter
+### 3. The helicopter
 
 The type: A micro-manager at heart, helicopters know exactly what should be done. And they want you to carry out their vision exactly as they've envisioned it. They want to know exactly what you're doing and how you're doing it.
 
@@ -49,7 +50,7 @@ Is this type of PI right for you? If you do not have much experience in doing re
 
 ---
 
-# 4. The demi-god
+### 4. The demi-god
 
 The type: As big shots with big names, demi-gods have seemingly infinite money and resources. Too bad you'll never see them though.
 

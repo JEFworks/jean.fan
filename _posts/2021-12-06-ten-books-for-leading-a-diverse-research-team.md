@@ -3,6 +3,7 @@ layout: post
 title: "10 books for leading a diverse research team"
 excerpt: "I reflect on my last year of experience learning how to interview, recruit, manage, lead, and support students in conducting biomedical research and provide my top 10 recommended books on these topics."
 date: "December 6, 2021"
+categories: [Resource]
 ---
 
 As a junior faculty, I have been well-trained as a scientist and engineer in conducting a very narrow subfield of biomedical research. However, like many of my peers, I have never really been formally taught how to recruit, interview, or manage students. Now, a very large component of my work is not only conducting research and striving to make scientific discoveries myself, but also leading and training a team of students towards these same goals. Particularly as we head into another round of PhD interviews and recruitments, in this blog post, I reflect on my last year of experience learning how to interview, recruit, manage, lead, and support students in conducting biomedical research.  

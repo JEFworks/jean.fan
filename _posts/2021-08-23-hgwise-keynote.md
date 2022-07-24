@@ -3,13 +3,14 @@ layout: post
 title: "Writing Your Scientific Origin Story"
 excerpt: "I recently had the honor of giving the Keynote address at the Harvard Graduate Women in Science and Engineering (HGWISE) + Learn with Leaders Summer Research Workshop. I just wanted to provide here a partial transcript of the major points in my Keynote address."
 date: "August 23, 2021"
+categories: [Speech]
 ---
 
 I recently had the honor of giving the Keynote address at the <a href="https://learnwithleaders.com/hgwiseworkshop/">Harvard Graduate Women in Science and Engineering (HGWISE) + Learn with Leaders Summer Research Workshop.</a> The workshop focuses on connecting high school girls in India with researchers from industry and academia to empower them to formulate their own research questions under the mentorship of PhD students and postdoctoral fellows from Harvard and MIT. I just wanted to provide here a partial transcript of the major points in my Keynote address in case anyone else could benefit from it.
 
-# Keynote: Writing Your Scientific Origin Story
+### Keynote: Writing Your Scientific Origin Story
 
-> ## [scientific] origin story - an account or backstory that establishes the background narrative and informs the identity and motivations of the person [as a scientist]
+<blockquote> [scientific] origin story - an account or backstory that establishes the background narrative and informs the identity and motivations of the person [as a scientist] </blockquote>
 
 It's my pleasure to be giving this keynote 
 to an audience of aspiring young scientists. 

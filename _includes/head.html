@@ -1,37 +1,37 @@
+<!doctype html>
+<html lang="en">
 <head>
-
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-  <title>
-    {% if page.title %}{{ page.title | escape }} - {{ site.title | escape }}
-    {% else %}{{ site.title | escape }}{% endif %}
-  </title>
-
-  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
-
-  <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
-  <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
-
-  <link rel="stylesheet" href="{{"/assets/vendor/bootstrap/css/bootstrap.min.css" | relative_url }}">
-
-  <link rel="stylesheet" href="{{"/assets/vendor/fontawesome-free/css/all.min.css" | relative_url }}">
-
-  <link rel="stylesheet" href="{{"/assets/main.css" | relative_url }}">
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
-
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-35232680-4"></script>
-  <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'UA-35232680-4');
-  </script>
-
-  <!-- Go to www.addthis.com/dashboard to customize your tools -->
-  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5cd4ce02d9bd346e"></script>
-  
+  <title>{{site.title}}</title>
+  <meta name="description" content="{{site.description}}"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <link rel="apple-touch-icon" href="{{relative_url}}/assets/img/icon.png"/>
+  <link rel="shortcut icon" href="{{relative_url}}/assets/img/favicon.ico" type="image/x-icon"/>
+  <link rel="stylesheet" href="{{relative_url}}/assets/css/bootstrap.min.css"/>
+  <link rel="stylesheet" href="{{relative_url}}/assets/css/font-awesome.min.css"/>
+  <link rel="stylesheet" href="{{relative_url}}/assets/css/slick.css"/>
+  <link rel="stylesheet" href="{{relative_url}}/assets/css/magnific-popup.css"/>
+  <link rel="stylesheet" href="{{relative_url}}/assets/css/animate.css"/>
+  {% if page.url == "/" or page.layout == "page" %}
+  <link rel="stylesheet" href="{{relative_url}}/assets/css/progress-line.css"/>
+  {% else %}
+  <link rel="stylesheet" href="{{relative_url}}/assets/css/progress-bar.css"/>
+  {% endif %}
+  <link rel="stylesheet" href="{{relative_url}}/assets/css/owl.carousel.min.css"/>
+  <link rel="stylesheet" href="{{relative_url}}/assets/css/mean-menu.css"/>
+  <link rel="stylesheet" href="{{relative_url}}/assets/css/default.css"/>
+  <link rel="stylesheet" href="{{relative_url}}/assets/css/style.css"/>
+  <link rel="stylesheet" href="{{relative_url}}/assets/css/responsive.css"/>
 </head>
+<body>
+  <!--[if IE]>
+    <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+  <![endif]-->
+  <!-- Preloader-->
+  <div class="loader">
+    <div class="spinner">
+        <div class="double-bounce1"></div>
+        <div class="double-bounce2"></div>
+    </div>
+  </div>
+  <!-- Preloader End-->

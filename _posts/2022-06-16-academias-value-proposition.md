@@ -3,6 +3,7 @@ layout: post
 title: "Academia's Value Proposition"
 excerpt: "Nearly two years ago, I started my journey as a tenure-track assistant professor. And within this past year, a number of my close friends, colleagues, collaborators, and former mentors have decided to leave academia to continue pursuing science outside of academia in industry. This has led to me really reflect on what are the truly unique value propositions academia? These are my thoughts from that reflection. "
 date: "June 16, 2022"
+categories: [Commentary]
 ---
 
 Nearly two years ago, I started my journey as a tenure-track assistant professor. And within this past year, a number of my close friends, colleagues, collaborators, and former mentors have decided to leave academia to continue pursuing science outside of academia in industry. 

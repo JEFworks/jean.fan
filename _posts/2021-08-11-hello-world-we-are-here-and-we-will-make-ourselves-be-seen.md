@@ -3,6 +3,7 @@ layout: post
 title: "Hello world. We are here. And we will make ourselves be seen. "
 excerpt: "Visibility in academia is both a contributor to and outcome of scholarly reputation. I reflect on my experiences that demonstrate how the resources for enhancing our visibility cannot be assumed to have been made available for all who should be entitled to access them. I conclude that the onus is falling on our shoulders to create our own visibility. So I provide some alternative resources for doing so. "
 date: "August 11, 2021"
+categories: [Commentary]
 ---
 
 I believe visibility in academia is both a contributor to and outcome of scholarly reputation. As such, for students and junior faculty starting out in their academic journeys and looking to establish their own scholarly reputations, visibility is often the pre-requisite to finding new collaborations as well as recruiting students. After all, how will people collaborate with you or join your team if they can't see you?  
@@ -15,34 +16,34 @@ However, in my experience, these resources for enhancing our visibility cannot b
 
 To this end, I strongly advise for students and junior faculty to:
 
-## 1. Make your own academic personal website
+### 1. Make your own academic personal website
 
 This academic personal website as well as [my lab website](https://jef.works/) has been made (for free) using Jekyll on Github. There are many tutorials available to help you to help you get started to quickly build your own academic portfolio or simple online CV to begin creating and enhancing your own visibility:
 
--- [An in-depth tutorial for getting started with Jekyll on Github](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll)  
--- [A shorter tutorial for getting started with Jekyll on Github](http://www.stephaniehicks.com/githubPages_tutorial/pages/githubpages-jekyll.html)  
--- [A nice online CV Jekyll theme](https://webjeda.com/online-cv/)  
--- [A nice portfolio Jekyll theme](https://alshedivat.github.io/al-folio/) (shown below)  
+- [An in-depth tutorial for getting started with Jekyll on Github](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll)  
+- [A shorter tutorial for getting started with Jekyll on Github](http://www.stephaniehicks.com/githubPages_tutorial/pages/githubpages-jekyll.html)  
+- [A nice online CV Jekyll theme](https://webjeda.com/online-cv/)  
+- [A nice portfolio Jekyll theme](https://alshedivat.github.io/al-folio/) (shown below)  
 
 <img src="https://raw.githubusercontent.com/alshedivat/al-folio/master/assets/img/al-folio-preview.png" width="100%"> <br><br>
 
-## 2. Get profiles on professional social media websites
+### 2. Get profiles on professional social media websites
 
 You can also link to your academic personal website via these profiles (and vice versa) to enhance SEO and searchability so people can find you more easily. Here are a few professional social media websites for your consideration:
 
--- [Google Scholar](https://scholar.google.com/citations?user=EEX1uGwAAAAJ&hl=en)  
--- [LinkedIn](https://www.linkedin.com/in/jeanfan/)  
--- [Academic Twitter](https://twitter.com/jefworks)  
+- [Google Scholar](https://scholar.google.com/citations?user=EEX1uGwAAAAJ&hl=en)  
+- [LinkedIn](https://www.linkedin.com/in/jeanfan/)  
+- [Academic Twitter](https://twitter.com/jefworks)  
 
-## 3. Put your scholarly content out there
+### 3. Put your scholarly content out there
 
 Record and share to your scientific presentations such as on Youtube. Here are some personal academic Youtube channels to encourage you to find your own voice:
 
--- [Nikolai Slavov's channel](https://www.youtube.com/channel/UCWOzbsUtWaAqh9vN-Qh6C6w)  
--- [Jeff Leek's channel](https://www.youtube.com/channel/UC8xNPQ-3a5t9uMU7Vah-jWA)  
--- [Manolis Kellis's channel](https://www.youtube.com/channel/UCkKlJ5LHrE3C7fgbnPA5DGA)  
--- [My channel](https://www.youtube.com/channel/UCFrwIRJvLGp631o9Bo_BtYw)  
+- [Nikolai Slavov's channel](https://www.youtube.com/channel/UCWOzbsUtWaAqh9vN-Qh6C6w)  
+- [Jeff Leek's channel](https://www.youtube.com/channel/UC8xNPQ-3a5t9uMU7Vah-jWA)  
+- [Manolis Kellis's channel](https://www.youtube.com/channel/UCkKlJ5LHrE3C7fgbnPA5DGA)  
+- [My channel](https://www.youtube.com/channel/UCFrwIRJvLGp631o9Bo_BtYw)  
 
-## 4. Look out for one another
+### 4. Look out for one another
 
 While those of us within the system continue to advocate for change, please look out for each other. Learn to advocate for yourself and your community. If [we are invisible because people refuse to see us](https://en.wikipedia.org/wiki/Invisible_Man), then let us at least see each other. Because we are here. And we will make ourselves be seen.

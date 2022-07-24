@@ -1,4 +1,15 @@
 ---
-layout: home
-background: '/img/bg.jpg'
+layout: default
 ---
+
+{% include header.html %}
+{% include slider.html %}
+
+<div class="main-section main-section-3 " style="background-image: url(/assets/img/bg/grid-paper-bg.jpg); background-repeat: repeat-y;">
+    {% include brands_carousel.html %}
+    {% include about.html %}
+    {% include video_area.html %}
+    {% include blogs.html extra_class="blog-area-3 pt-120 pb-120" %}
+    {% include contact.html extra_class="contact-area" %}
+</div>
+{% include footer.html extra_class="footer-area-2" %}

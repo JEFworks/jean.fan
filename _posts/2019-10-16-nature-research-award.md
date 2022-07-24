@@ -3,13 +3,14 @@ layout: post
 title: "Nature Research Award"
 excerpt: "I recently had the honor of being named the Nature Research Award winner for 2019. I just wanted to provide here a full transcript of my award acceptance speech as I had intended to deliver it. A set of videos, podcasts, news articles, and interviews will likely be available through Nature Research and The Estée Lauder Companies within the near future."
 date: "October, 16, 2019"
+categories: [Speech]
 ---
 
 I recently had the honor of being named the [2019 winner of the Nature Research Award winner for Inspiring Science](https://group.springernature.com/gp/group/media/press-releases/winners-of-2019-nature-research-inspiring-and-innovating-awards/17272996). I just wanted to provide here a full transcript of my award acceptance speech as I had intended to deliver it. A set of videos, podcasts, news articles, and interviews will likely be available through Nature Research and The Estée Lauder Companies within the near future.
 
-<img src="/img/nature_research_award.jpeg" width="100%">
+<img src="/assets/img/blog/nature_research_award.jpeg" width="100%">
 
-# Award Acceptance Speech Transcript
+### Award Acceptance Speech Transcript
 
 Thank you to the leadership at Nature Research and The Estée Lauder Companies for leveraging their power and privilege to creating this Nature Research Award to acknowledge and highlight the accomplishment of women in science in spite of the systemic and institutionalized challenges we may face. 
 

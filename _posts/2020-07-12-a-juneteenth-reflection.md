@@ -3,6 +3,7 @@ layout: post
 title: "A Juneteenth Reflection"
 excerpt: "The deaths of George Floyd, Breonna Taylor, Darrien Hunt, Ahmaud Arbery, Elijah McClain and countless other black lives have spurred an overdue conversation regarding systemic and institutionalized racism in America. As individuals in positions of leadership, as gatekeepers, as fellow human being, we must recognize our complacency in perpetuating institutionalized injustice. We must vow to do better."
 date: "July 12, 2020"
+categories: [Reflection]
 ---
 
 *Originally written on June 19th, 2020*
@@ -34,6 +35,6 @@ Because if we don’t do it, who will?
 
 ---
 
-Additional resources:
+### Additional resources
 - [Concrete Steps for Recruiting, Supporting, and Advancing Underrepresented Minoritized (URM) Scientists]( https://docs.google.com/document/d/1Ic6bil2AvrQmPFUcUyxcw_FumofKkUo3VLsU7qG0cTk/edit)
 
