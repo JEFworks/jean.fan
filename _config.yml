@@ -1,8 +1,8 @@
 title: "Jean Fan | Personal site"
 email: "jeanfan@jhu.edu"
 description: Personal website of Prof. Jean Fan
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://jean.fan" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://jean.fan" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: "/:year/:month/:day/:title:output_ext"
 # Build settings
 markdown: kramdown
@@ -24,8 +24,6 @@ twitter_url: "https://twitter.com/JEFworks"
 instagram_url: "https://www.instagram.com/jefworks/"
 youtube_url: "https://www.youtube.com/channel/UCFrwIRJvLGp631o9Bo_BtYw"
 linkedin_url: "http://linkedin.com/in/jeanfan"
-
-environment: "development"  # production
 
 collections:
   home_one_services:
