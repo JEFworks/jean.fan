@@ -5,7 +5,7 @@
       {% for category in site.categories %}
         {% assign category_name = category[0] %}
         <li>
-          <a class="text-capitalize" href="/category/{{ category_name | slugify }}/">
+          <a class="text-capitalize" href="/category#{{ category_name }}/">
             {{ category_name | replace: "-", " " }} <i class="fas fa-angle-right"></i>
           </a>
         </li>

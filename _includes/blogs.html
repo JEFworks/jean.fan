@@ -15,7 +15,7 @@
           {% endif %}
 	  <div class="design-info pl-30 pb-30">
 	    <div class="design-title mb-25">
-	      <h5><a href="/category/{{ post.categories[0] | slugify }}">{{post.categories[0]}}</a></h5>
+	      <h5><a href="/category#{{ post.categories[0] }}">{{post.categories[0]}}</a></h5>
 	    </div>
 	    <span class="pb-10">{{post.date | date_to_long_string: "ordinal", "US"}}</span>
 	    <a href="{{post.url}}">
