@@ -33,6 +33,8 @@ Ultimately, I believe we are all interested in the same outcome: to enable great
 
 ### What can we do as students (and junior faculty)?<br>We show up. We be visible. We exist.
 
+"What can we do?" two young women ask as the first question from the audience. 
+
 First, we must recognize that diversity and inclusion work is WORK. Unfortunately, it is often not recognized as work. Were diversity and inclusion work to be recognized as work, it would count as an important service contribution in hiring, grant evaluation, and tenure decisions. It would also be eligible for offsetting the amount of time spent on other institutional service commitments such as teaching formal courses or service on other institutional committees. 
 
 This means that we, as those who do this diversity and inclusion work, must be judicious in choosing who we do this work for. For myself, I am willing to do this work in collaboration with students who I know will be able to integrate my views and perspectives towards their own efforts in supporting diversity and inclusion. I am not willing to do this work as a performance to make people in positions of leadership feel good about themselves for supporting women. 
