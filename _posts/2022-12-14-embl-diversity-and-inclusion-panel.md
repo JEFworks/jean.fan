@@ -31,7 +31,7 @@ I would further like to call to attention the metrics we use to evaluate and sel
 
 Ultimately, I believe we are all interested in the same outcome: to enable great science. We assume metrics such as grades, publication counts, and citation numbers as proxies to guide the selection for individuals who will be able to do great science. It is worth keeping in mind that these metrics are, at the end of the day, proxies and not replacements for the real thing: a person existing within a system, and as such, these metrics must be evaluated within the context of these systemic structures and the forces they exert.  
 
-### What can we do as students (and junior faculty)?<br>We show up. We be visible. We exist.
+### What can we do as students (and junior faculty)?<br>We show up. We be visible. We exist. We thrive. 
 
 "What can we do?" two young women ask as the first question from the audience. 
 
@@ -39,7 +39,7 @@ First, we must recognize that diversity and inclusion work is WORK. Unfortunatel
 
 This means that we, as those who do this diversity and inclusion work, must be judicious in choosing who we do this work for. For myself, I am willing to do this work in collaboration with students who I know will be able to integrate my views and perspectives towards their own efforts in supporting diversity and inclusion. I am not willing to do this work as a performance to make people in positions of leadership feel good about themselves for supporting women. 
 
-Second, the onus of elucidating the value of diversity and the possible avenues towards inclusion must shift away from those who are the most disproportionally impacted and onto those in positions of leadership and authority who have the most opportunity to create change. Even for myself, I experience privilege as an able-bodied person. So the onus of learning about ableism falls on me as I seek out voices in the disability activism community to educate myself on potential avenues towards their inclusion. 
+Second, the onus of elucidating the value of diversity and the possible avenues towards inclusion must shift away from those who are the most disproportionally impacted and onto those in positions of leadership and authority who have the most opportunity to create change. Even for myself, I experience privilege as an able-bodied person. So the onus of learning about ableism falls on me as I seek out voices in the disability activism community to educate myself on potential avenues towards their inclusion. Other panelists noted the abundance of online resources for self-education including the [Gendered Innovations project](http://genderedinnovations.stanford.edu/what-is-gendered-innovations.html).
 
 At the end of the day, we do what we can. And we do it now.  
 
