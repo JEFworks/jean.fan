@@ -2360,3 +2360,7 @@ label {
 	padding: 10px 5px;
 	background-color: #fff;
 }
+
+.post-content a {
+    text-decoration: underline;
+}
