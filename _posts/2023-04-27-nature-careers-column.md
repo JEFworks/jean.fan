@@ -1,25 +1,24 @@
 ---
 layout: post
 title: "On the digital frontier: exploring avenues for enhancing access to scientific resources"
-excerpt: "I recently had the pleasure of writing a Nature Careers column on why it’s worth making computational methods easy to use. The editor reached out after watching one of my live-coding Youtube videos and asked if I would be willing to share my thoughts and experiences in creating these videos. The published column changed quite a bit to emphasize a more actionable, service-oriented take-away. So I thought it'd be fun to share the original piece as I had written it with the original title On the digital frontier - exploring avenues for enhancing access to scientific resources."
+excerpt: "I recently had the pleasure of writing a Nature Careers column on why it’s worth making computational methods easy to use. The editor reached out after watching one of my live-coding Youtube videos and asked if I would be willing to share my thoughts and experiences in creating these videos. The published column changed quite a bit to emphasize a set of more actionable, service-oriented take-aways. So I thought it'd be fun to share the original piece as I had written it with the original title On the digital frontier - exploring avenues for enhancing access to scientific resources."
 date: "April 27, 2023"
 categories: [Reflection]
 ---
 
-I recently had the pleasure of working with [Jeffrey Perkel](https://twitter.com/j_perkel), the technology editor at the scientific journal Nature, on [a career column explaining "Why it’s worth making computational methods easy to use"](https://www.nature.com/articles/d41586-023-01440-z). Jeff had reached out after watching [one of my live-coding Youtube videos](https://www.youtube.com/watch?v=bipLp-0vi7c) and asked if I would be willing to share my thoughts and experiences in creating these videos, the lessons I learned along the way, and generally why I spend time creating such content. 
+I recently had the pleasure of working with [Jeffrey Perkel](https://twitter.com/j_perkel), the technology editor at the scientific journal Nature, on [a career column explaining "Why it’s worth making computational methods easy to use"](https://www.nature.com/articles/d41586-023-01440-z). Jeff had reached out after watching [one of my live-coding Youtube videos](https://www.youtube.com/watch?v=bipLp-0vi7c) and asked if I would be willing to share my thoughts and experiences in creating these videos, the lessons I learned along the way, and generally why I spend time creating such content. I wrote down and shared some rather rambling think-piece as an initial attempt at writing the column and then iterated with Jeff through the many rounds of revisions to emphasize a set of more actionable, service-oriented take-aways. I learned a lot working with Jeff and about the process of publishing service-oriented columns in general. 
 
 <figure align="center">
 <img src="/assets/img/blog/natcareer.jpeg" width="100%">
 <figcaption>(Special thanks to Mayling Chen for the photo)</figcaption>
 </figure>
 
-I wrote down and shared some rather rambling think-piece as an initial attempt at writing the column and then iterated with Jeff through the many rounds of revisions to emphasize a more actionable, service-oriented take-away. I learned a lot working with Jeff and about the process of publishing service-oriented columns in general. 
-
-Since the published column changed quite a bit, I thought it'd be fun to share the original piece as I had written it. Unedited. Perhaps someone will appreciate my unfiltered, meandering thoughts, however unorganized and verbose.
+Since the published column changed quite a bit through the editorial process, I thought it'd be fun to share the original piece as I had written it. Unedited. Perhaps someone will appreciate my unfiltered, meandering thoughts, however unorganized and verbose.
 
 ---
 
 ## On The Digital Frontier: Exploring Avenues For Enhancing Access To Scientific Resources
+
 
 What does a scientist look like? Well, that depends on who gets to become a scientist. 
 
