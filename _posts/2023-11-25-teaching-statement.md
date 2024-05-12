@@ -17,19 +17,19 @@ It wasn't until I happened upon a real, heartfelt teaching statement from a curr
 
 ---
 
-## Video
+## Short Film Video
 
 <div align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jco1r6hk6Z4?si=jUEuovJrrITnshfS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-Transcript: 
+<b><u>Transcript: </u></b>
 
-"In front of my computer, I teach. As a computational biologist, I teach machine learning algorithms to address challenges in biological data analysis. To accomplish this, I provide well-curated datasets to be trained and define explicit error functions to be minimized. I have already decided on the goals, approaches, and criteria of success; I have already done the thinking. The machine that I am teaching simply needs to obey and execute the set of actions I have already prescribed. 
+In front of my computer, I teach. As a computational biologist, I teach machine learning algorithms to address challenges in biological data analysis. To accomplish this, I provide well-curated datasets to be trained and define explicit error functions to be minimized. I have already decided on the goals, approaches, and criteria of success; I have already done the thinking. The machine that I am teaching simply needs to obey and execute the set of actions I have already prescribed. 
 
 In front of my classroom, I also teach. I teach biomedical engineering. But my teaching here must be different because I am no longer teaching machines; I am teaching people. Unlike machines, people must be able to decide on goals, approaches, and criteria of success for themselves; people must be able to do the thinking. And when the occasion arises, people must be able to think and to decide to disobey and execute a different set of actions according to their own judgement, principles, and values. 
 
 I hope that the students I teach will learn to set their own goals that they believe are worth pursuing. And I hope that what I teach in the classroom will help enable them to devise the necessary approaches and gather the appropriate resources to pursue these goals more effectively. I hope that they will be brave in defining their own criteria of success. 
 
-Ultimately, unlike the machines I teach, I hope that the students I teach will be able to create new things that have never been created before. I hope that they will create new medicines, new technologies, and new ways of positively impacting our lives. And I hope that, much like I feel a sense of responsibility for what I teach them, they will feel a sense of responsibility for using the skills that they’ve learned towards creating things to the benefit of all of us."
+Ultimately, unlike the machines I teach, I hope that the students I teach will be able to create new things that have never been created before. I hope that they will create new medicines, new technologies, and new ways of positively impacting our lives. And I hope that, much like I feel a sense of responsibility for what I teach them, they will feel a sense of responsibility for using the skills that they’ve learned towards creating things to the benefit of all of us.
 
