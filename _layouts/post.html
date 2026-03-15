@@ -18,24 +18,26 @@ layout: default
 <div class="main-section pt-60 pb-60" style="background-image: url(/assets/img/bg/grid-paper-bg.jpg); background-repeat:repeat-y;">
   <div class="blog-detalis-area">
     <div class="container">
-      <div class="row">
-	<div class="col-md-12">
+      <div class="row justify-content-center">
+	<div class="col-lg-10 col-md-12">
+	  <div class="post-card">
           {% if page.post_image %}
           <div class="blog-img mb-45">
             <img src="{{page.post_image}}" class="img-fluid" alt="{{page.title}}"/>
           </div>
           {% endif %}
-	    
-          <div>{{page.date | date_to_long_string: "ordinal", "US"}} |
+
+          <div class="post-meta">{{page.date | date_to_long_string: "ordinal", "US"}} |
 	    <a href="/category#{{ page.categories[0] }}">{{page.categories[0]}}</a>
-	  </div>	    
+	  </div>
 	  <hr>
-	  
+
           <div class="blog-text">
             <div class="post-content">
               {{page.content}}
             </div>
           </div>
+	  </div>
 	</div>
       </div>
       <hr>

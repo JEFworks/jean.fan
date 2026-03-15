@@ -18,5 +18,5 @@
 #    url: /blog
 #  - text: Blog Details
 #    url: /html5-static-site
-- text: Connect
-  url: /#connect
+#- text: Connect
+#  url: /#connect
