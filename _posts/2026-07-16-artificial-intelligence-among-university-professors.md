@@ -8,7 +8,7 @@ categories: [Satire, Commentary]
 
 ### Background
 
-Many of us professors are currently grappling with AI. So I had some fun writing this essay to reflect on my experiences and offer a semi-autobiographical accounting from a biological scientist perspective observing and experiencing academia as a distinct ecological habitat. I wonder if AI can tell that AI did not write this essay.
+Many of us professors are currently [grappling with AI use by students in the classroom](https://www.insidehighered.com/news/faculty/learning-assessment/2026/07/08/brown-professor-suspects-most-his-class-used-ai-cheat). But an additional source of frustration I didn't expect: AI use by fellow colleagues. So I had some fun writing this essay to reflect on my experiences and offer a semi-autobiographical accounting from a biological scientist perspective observing and experiencing academia as a distinct ecological habitat. I wonder if AI can tell that AI did not write this essay.
 
 For more observations of the academic ecosystem, see [University Professors in the Neoliberal Academic Ecosystem](https://jean.fan/2026/01/12/neoliberal-academic-ecosystem.html).
 
