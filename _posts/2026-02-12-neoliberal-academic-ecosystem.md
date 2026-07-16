@@ -3,7 +3,7 @@ layout: post
 title: "University Professors in the Neoliberal Academic Ecosystem"
 excerpt: "A semi-autobiographical accounting from a biological scientist perspective observing and describing academia as a distinct ecological habitat with university professors and PhD students as inhabiting species."
 date: "Jan 12, 2026"
-categories: [Commentary, Reflection]
+categories: [Satire, Commentary]
 ---
 
 ### Background
@@ -42,3 +42,11 @@ Through such collective action, PhD students have renegotiated access to essenti
 Likewise, elder university professors with the wisdom afforded by longer views of the changing academic ecosystem, have created new resources in the form of HHMI Investigator awards and NIH MIRA grants, long-term financial research funding that invests in the person rather than the project with reduced administrative oversight, thereby restoring trust as a governing principle, enabling university professors to pursue uncertain and foundational work without perpetual audit. Because fortune might favor the brave but bravery is easier for the fortunate. 
 
 While some within the academic ecosystem may present neoliberalism as an unstoppable force, others remain hopeful. Because one of the strengths of academia has always been the ability to idealize, to dream, and to conceive of a that which has never existed before, be it in the form of a scientific discovery, or a controversial and dissenting idea. 
+
+---
+
+### Update: May 29, 2026
+
+I made a video reading of this essay. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PGO4qgfm7DU?si=wLB7_ks7ORruFNkN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
