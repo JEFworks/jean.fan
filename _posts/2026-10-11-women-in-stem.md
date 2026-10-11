@@ -16,6 +16,8 @@ For more observations, see [University Professors in the Neoliberal Academic Eco
 
 ### Women and pro-social labor in the neoliberal academic ecosystem
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l6ud-HRoogs?si=Hgrtah4QfAXbw25X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Women - despite comprising approximately 50% of the human population, represent less than 30% of the STEM work force with even fewer in positions of leadership. As a result of this population imbalance, early female pioneers into the STEM ecosystem were subject to extreme environmental pressures that [selected for a phenotypic subset well-aligned to the male-dominant subculture as the privileges and opportunities extended to us were contingent on our disassociation from the feminine and the rejection of stereotypically feminized pro-social labor](https://onlinelibrary.wiley.com/doi/full/10.1111/1748-8583.70048).
 
 Because if sympathy led women to be stereotyped as emotional, then we had to become the least emotional person in the room. If the feminine was seen as unserious and unworthy of financial compensation, then we had to trade in our feminine frilly dresses for masculine boy blazers and our natural voices for a [comical baritone]( https://www.businessinsider.com/theranos-founder-elizabeth-holmes-deep-voice-2019-3). So, we distanced ourselves from ‘the other girls’ in hopes of self-preservative.
