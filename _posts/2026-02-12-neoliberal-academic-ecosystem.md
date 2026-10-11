@@ -17,6 +17,8 @@ Based on these readings, I had some fun writing this essay to reflect on what Iâ
 
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PGO4qgfm7DU?si=TRwBlz-lhP1ClesI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### University Professors in the Neoliberal Academic Ecosystem
 
 University professors, a reclusive species well-regarded for their curious nature, occupy an ever-changing ecological niche in the modern academic ecosystem. Historically sustained by stable long-term appointments, shared norms of collegial governance, and a slow reproductive cycle of ideas, today, this habitat has been radically altered, much like the rest of Anglo-Saxon society, by the encroachment of a new operationalizing force: neoliberalism.

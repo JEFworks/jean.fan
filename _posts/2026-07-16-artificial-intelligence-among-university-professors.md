@@ -14,6 +14,8 @@ For more observations of the academic ecosystem, see [University Professors in t
 
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SNsIHRmTb44?si=RFaFCnDFCq8RdON5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Artificial Intelligence Among University Professors
 
 Artificial intelligence represents a remarkable ecological phenomenon currently unfolding across the academic ecosystem.
